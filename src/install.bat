@@ -1,1 +1,1 @@
-node install
+npm install
