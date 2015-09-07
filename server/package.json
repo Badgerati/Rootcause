@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Badgerati",
+  "author": "Badgerati, Kargar13",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.13.3",

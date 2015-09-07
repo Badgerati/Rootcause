@@ -1,0 +1,10 @@
+web:
+    build: ./website
+    links:
+        - node
+    ports:
+        - "80:80"
+node:
+    build: ./server
+    ports:
+        - "3000:3000"

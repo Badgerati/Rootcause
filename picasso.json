@@ -1,0 +1,11 @@
+{
+	"palette": {
+		"paint" :[
+			{
+				"type": "software",
+				"names": [ "git", "vim", "virtualbox", "vagrant", "nodejs", "curl", "sqlitebrowser" ],
+				"ensure": "installed"
+			}
+		]
+	}
+}
